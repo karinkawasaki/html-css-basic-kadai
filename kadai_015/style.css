@@ -16,8 +16,8 @@ html {
 }
 
 h1 {
-    font-family: "https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap", sans-serif;
-    font-size: 2em;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2rem;
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px grey;
     border-bottom: 3px solid rgb(115, 115, 114);
